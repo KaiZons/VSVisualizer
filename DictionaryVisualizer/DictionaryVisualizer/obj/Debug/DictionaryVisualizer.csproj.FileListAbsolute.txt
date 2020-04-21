@@ -1,0 +1,9 @@
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\ListViewVisualizer.View.ShowData.resources
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.csproj.GenerateResource.cache
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.csproj.CoreCompileInputs.cache
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\bin\Debug\DictionaryVisualizer.dll
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\bin\Debug\DictionaryVisualizer.pdb
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.csproj.CopyComplete
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.dll
+E:\vs2017TestCode\vs可视化调试器\DictionaryVisualizer\DictionaryVisualizer\obj\Debug\DictionaryVisualizer.pdb
