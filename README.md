@@ -1,3 +1,4 @@
+ListVisualizer使用方法：
 一.	安装方法：
 	将ListViewVisualizer.dll复制到：VS安装目录下的\Common7\Packages\Debugger\Visualizers
 文件夹下即可；
