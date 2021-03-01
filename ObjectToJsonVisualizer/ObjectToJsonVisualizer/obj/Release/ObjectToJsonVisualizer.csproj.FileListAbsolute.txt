@@ -1,0 +1,11 @@
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\bin\Release\ObjectToJsonVisualizer.dll
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\bin\Release\ObjectToJsonVisualizer.pdb
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\bin\Release\Newtonsoft.Json.dll
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\bin\Release\Newtonsoft.Json.xml
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.JsonView.resources
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.csproj.GenerateResource.cache
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.csproj.CoreCompileInputs.cache
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.csproj.CopyComplete
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.dll
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ObjectToJsonVisualizer\obj\Release\ObjectToJsonVisualizer.pdb

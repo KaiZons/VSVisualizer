@@ -23,6 +23,10 @@ namespace ObjectToJsonVisualizer
             {
                 object value = objectProvider.GetObject();
                 // 显示
+                using (JsonView jsonView = new JsonView(GetJsonString(value)))
+                {
+                    jsonView.ShowDialog();
+                }
 
             }
             catch (Exception e)
