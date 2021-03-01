@@ -1,0 +1,6 @@
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\GitWorkspace\VSVisualizer\ObjectToJsonVisualizer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

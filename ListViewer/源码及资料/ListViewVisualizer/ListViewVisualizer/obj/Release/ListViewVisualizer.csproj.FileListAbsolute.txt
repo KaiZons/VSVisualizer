@@ -1,0 +1,4 @@
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Release\ListViewVisualizer.csprojAssemblyReference.cache
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Release\ListViewVisualizer.View.ShowData.resources
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Release\ListViewVisualizer.csproj.GenerateResource.cache
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Release\ListViewVisualizer.csproj.CoreCompileInputs.cache

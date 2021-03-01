@@ -16,3 +16,12 @@ E:\vs2017TestCode\vs可视化调试器\ListViewer\源码及资料\ListViewVisual
 E:\vs2017TestCode\vs可视化调试器\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.csproj.CopyComplete
 E:\vs2017TestCode\vs可视化调试器\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.dll
 E:\vs2017TestCode\vs可视化调试器\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.pdb
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\bin\Debug\ListViewVisualizer.dll
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\bin\Debug\ListViewVisualizer.pdb
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.csprojAssemblyReference.cache
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.View.ShowData.resources
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.csproj.GenerateResource.cache
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.csproj.CoreCompileInputs.cache
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.csproj.CopyComplete
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.dll
+F:\GitWorkspace\VSVisualizer\ListViewer\源码及资料\ListViewVisualizer\ListViewVisualizer\obj\Debug\ListViewVisualizer.pdb

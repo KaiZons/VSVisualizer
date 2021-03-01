@@ -19,5 +19,10 @@ namespace ObjectToJsonVisualizer
             this.Text = "JSON视图";
             m_json = json;
         }
+
+        private void OnJsonViewLoad(object sender, EventArgs e)
+        {
+            this.m_richTextBox.Text = m_json;
+        }
     }
 }

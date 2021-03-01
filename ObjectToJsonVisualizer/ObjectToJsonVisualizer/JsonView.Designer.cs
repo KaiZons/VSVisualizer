@@ -48,6 +48,7 @@
             this.Controls.Add(this.m_richTextBox);
             this.Name = "JsonView";
             this.Text = "JsonView";
+            this.Load += new System.EventHandler(this.OnJsonViewLoad);
             this.ResumeLayout(false);
 
         }

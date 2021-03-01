@@ -1,15 +1,18 @@
 ﻿using Microsoft.VisualStudio.DebuggerVisualizers;
+using Newtonsoft.Json;
+using ObjectToJsonVisualizer;
 using System;
 using System.Collections.Generic;
-using System.Data;
-using System.Windows.Forms;
-using System.Reflection;
 using System.IO;
-using ObjectToJsonVisualizer;
-using Newtonsoft.Json;
+using System.Windows.Forms;
 
+
+/*
+ * 如果提示：未能加载此自定义查看器解决方法
+ * 解决方案：在vs中，选择调试-选项-常规中的使用托管兼容模式取消勾选。之后就可以了
+ */
 [assembly: System.Diagnostics.DebuggerVisualizer(
-typeof(Debugger),
+typeof(ObjectToJsonVisualizer.Debugger),
 typeof(ObjectToJsonVisualizerObjectSource),
 Target = typeof(object),
 Description = "JSONVisualizer")]
@@ -23,7 +26,7 @@ namespace ObjectToJsonVisualizer
             {
                 object value = objectProvider.GetObject();
                 // 显示
-                using (JsonView jsonView = new JsonView(GetJsonString(value)))
+                using (JsonView jsonView = new JsonView(value.ToString()))
                 {
                     jsonView.ShowDialog();
                 }
@@ -31,7 +34,24 @@ namespace ObjectToJsonVisualizer
             }
             catch (Exception e)
             {
-                MessageBox.Show(e.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show(e.StackTrace +e.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+    }
+
+    public class ObjectToJsonVisualizerObjectSource : VisualizerObjectSource
+    {
+        public override void GetData(object target, Stream outgoingData)
+        {
+            try
+            {
+                //不做加工
+                base.GetData(GetJsonString(target), outgoingData);
+            }
+            catch (Exception ex)
+            {
+                string errorInfo = $"调试器获取数据异常！\r\n{ex.Message}\r\n{ex.StackTrace}";
+                base.GetData(errorInfo, outgoingData);
             }
         }
 
@@ -50,23 +70,6 @@ namespace ObjectToJsonVisualizer
             JsonSerializer serializer = new JsonSerializer();
             serializer.Serialize(jsonWriter, obj);
             return textWriter.ToString();
-        }
-    }
-
-    public class ObjectToJsonVisualizerObjectSource : VisualizerObjectSource
-    {
-        public override void GetData(object target, Stream outgoingData)
-        {
-            try
-            {
-                //不做加工
-                base.GetData(target, outgoingData);
-            }
-            catch (Exception ex)
-            {
-                string errorInfo = $"调试器获取数据异常！\r\n{ex.Message}\r\n{ex.StackTrace}";
-                base.GetData(errorInfo, outgoingData);
-            }
         }
     }
 }
